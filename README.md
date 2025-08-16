@@ -1,4 +1,4 @@
-# Google Map Embed (Practice Project)
+# Google Map Embed
 
 This is a simple project created for **practice purposes**.  
 It demonstrates how to embed **Google Maps** into a webpage using an `<iframe>`.
