@@ -14,6 +14,7 @@ It demonstrates how to embed **Google Maps** into a webpage using an `<iframe>`.
 
 ## 🛠️ Technologies Used
 - **HTML5**
+- **CSS3**
 - **Google Maps Embed**
 
 ---
