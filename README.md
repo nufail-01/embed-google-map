@@ -17,5 +17,3 @@ It demonstrates how to embed **Google Maps** into a webpage using an `<iframe>`.
 - **Google Maps Embed**
 
 ---
-
-## 📂 Project Structure
