@@ -21,3 +21,4 @@ It demonstrates how to embed **Google Maps** into a webpage using an `<iframe>`.
 🔗 [GitHub Repository](https://github.com/nufail-01/PlayStation-UI)
 ---
 ## 🤝 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
