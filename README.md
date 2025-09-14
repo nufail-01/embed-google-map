@@ -14,7 +14,7 @@ It demonstrates how to embed **Google Maps** into a webpage using an `<iframe>`.
 
 ## 🌐 Live Demo
 
-[![Website Preview](/googlemap.png)]()
+[![Website Preview](/googlemap.png)](https://nufail-01.github.io/embed-google-map/)
 
 ---
 
