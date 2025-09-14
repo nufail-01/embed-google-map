@@ -13,6 +13,7 @@ It demonstrates how to embed **Google Maps** into a webpage using an `<iframe>`.
 ---
 ## 🌐 Live Demo
 [![Website Preview](assets/images/scrollify.png)](https://nufail-01.github.io/Scrollify/)
+---
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
